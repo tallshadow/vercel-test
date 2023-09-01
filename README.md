@@ -1,2 +1,2 @@
-# vercel-test
-test vercel
+# my_django_blog
+A modern blog built with django.
